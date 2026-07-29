@@ -1,0 +1,124 @@
+Package: bdwgc
+Version: 8.2.12-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 240
+Description: Boehm garbage collector runtime libraries
+Filename: bdwgc_8.2.12-1_x86_64.ipk
+Size: 102436
+SHA256sum: a68b3ba1cab34b07fd3da46fb0de8e7ee230482e08e089dc7b3451f4b70fd432
+
+Package: cowsay
+Version: 1.6.0-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 318
+Description: small shell cowsay command for MuslLinux
+Filename: cowsay_1.6.0-1_x86_64.ipk
+Size: 49500
+SHA256sum: b3f95865cb2be91e051350ec80ae4e7cec6439d160e58cc2eae807eb071a5823
+
+Package: fastfetch
+Version: 2.50.2-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 3527
+Description: fast system information tool
+Filename: fastfetch_2.50.2-1_x86_64.ipk
+Size: 1211636
+SHA256sum: 64208c0465e22d6a57d0cb9387acd1e31994923483eaaad85f03952c509e9ad2
+
+Package: figlet
+Version: 2.2.5-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 813
+Description: FIGlet banner text generator
+Filename: figlet_2.2.5-1_x86_64.ipk
+Size: 130510
+SHA256sum: 259d6d2e7240c6ca7081d90fa9b0eabcbe977a7750567298247146017010f9a3
+
+Package: htop
+Version: 3.6.0-dev-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 1632
+Depends: ncurses
+Description: interactive process viewer
+Filename: htop_3.6.0-dev-1_x86_64.ipk
+Size: 719436
+SHA256sum: baf40f1a37c219ac759ddcbf752f3c8a0bc9db7f9c2dd7bf71ce9154631ec9ed
+
+Package: lua
+Version: 5.5.0-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 904
+Description: Lua programming language interpreter
+Filename: lua_5.5.0-1_x86_64.ipk
+Size: 336232
+SHA256sum: f1eec939cbeeac66389da72aea1b87b1dd959cef3d5cb82aea4230530e45f65d
+
+Package: nano
+Version: 9.1-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 1917
+Depends: ncurses
+Description: small terminal text editor
+Filename: nano_9.1-1_x86_64.ipk
+Size: 779258
+SHA256sum: 9e0b3801b7e1d712a4033543e5afe1a3aee7c9093397f1e9dc206ef0139a4e8c
+
+Package: ncurses
+Version: 6.6-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 8000
+Description: terminal control library and terminfo database
+Filename: ncurses_6.6-1_x86_64.ipk
+Size: 1240276
+SHA256sum: b78c0a237a87b17722d805b9a313f2c62d529f4d67e092d11fc605c37e877cb8
+
+Package: w3m
+Version: 0.5.3-1
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 1756
+Depends: ncurses
+Description: text mode web browser
+Filename: w3m_0.5.3-1_x86_64.ipk
+Size: 1021854
+SHA256sum: a56e3584f24601bd2ce4421c54a9570eff59a5f34c46ecb89e3ea5468d4dc7c5
+
+Package: w3m
+Version: 0.5.3-2
+Architecture: x86_64
+Maintainer: MuslLinux <root@musllinux>
+Section: base
+Priority: optional
+Installed-Size: 1756
+Depends: ncurses, bdwgc
+Description: text mode web browser
+Filename: w3m_0.5.3-2_x86_64.ipk
+Size: 1021878
+SHA256sum: 9e59ccbbef3b67223450b792e9c5eee4f609d4410445dcdb5418d1090a279be4
+
